@@ -8,7 +8,7 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 const channels = [
   {
     name: "ТиДиРи - мужская одежда",
-    tgId: "Firetechn",
+    tgId: "tidiri_market",
   }
 ];
 
